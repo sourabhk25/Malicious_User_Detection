@@ -6,7 +6,7 @@
 - We used KDD Cup'99 dataset as base for creating the dataset.
 - We have modified the dataset and kept only numerical data for creating our ML model easily.
 - We have used multiple ML classification algorithms.
-- Ploted a graph for comparing results using Plotly.
+- Ploted a interactive graph for comparing results using Plotly.
 
 ## Algorithms Used
 
