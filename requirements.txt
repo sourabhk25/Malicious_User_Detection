@@ -1,0 +1,26 @@
+# Stock Market Analysis Project Requirements
+
+# General Data Analysis and Manipulation
+pandas==1.5.3
+numpy==1.23.5
+
+# Data Visualization
+plotly==5.15.0
+
+# Machine Learning
+scikit-learn==1.2.2
+scipy==1.11.3
+
+# Jupyter Notebooks (if used for project)
+jupyter-client==6.1.12
+jupyter-console==6.1.0
+jupyter-server==1.24.0
+jupyter_core==5.4.0
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.9
+
+# Specific Dependencies
+# (Include specific dependencies here, if any, for your project)
+
+# Installation commands for dependencies:
+# pip install -r requirements.txt
